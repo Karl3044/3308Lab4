@@ -1,3 +1,3 @@
 # 3308Lab4
 Karl Todd
-Jamie Ackerson
+Partner: Jamie Ackerson
